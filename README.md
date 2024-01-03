@@ -34,6 +34,17 @@ source env/bin/activate
 ```bash
 pip install -r requirements.txt
 ```
+
+## Creating an environment variable
+### create a '.env' and add the following:
+```bash
+HUGGINGFACEHUB_API_TOKEN=
+
+REPLICATE_API_TOKEN =
+
+TOKENIZERS_PARALLELISM=true
+```
+
 ## Running Streamlit 
 Now time to run the app
 ```bash
