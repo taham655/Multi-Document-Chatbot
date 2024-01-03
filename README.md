@@ -37,6 +37,7 @@ pip install -r requirements.txt
 
 ## Creating an environment variable
 ### create a '.env' and add the following:
+with your api keys :p
 ```bash
 HUGGINGFACEHUB_API_TOKEN=
 
