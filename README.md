@@ -2,7 +2,7 @@
 
 ## Introduction
 
-Welcome to the GitHub repository for the GitHub Chatbot! This bot integrates various APIs to provide natural language processing and image generation capabilities.
+Welcome to the GitHub repository for the Multi Document Chatbot!
 
 ## Prerequisites
 
