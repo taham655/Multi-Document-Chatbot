@@ -7,6 +7,7 @@ Welcome to the GitHub repository for the Multi Document Chatbot!
 ## Prerequisites
 
 Before you begin, make sure you have the following installed:
+- https://drive.google.com/drive/folders/1O6gvIRTtz8UgewfQRwrdIn8-AAAqeNHC?usp=sharing the 'document' folder, save that folder with the other files. 
 - Python 3.9 or higher
 - pip (Python package installer)
 
